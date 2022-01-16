@@ -1,4 +1,4 @@
 # flo-olf.github.io
-longboard.is
+https://longboard.is
 
 ##This is just the webpage
